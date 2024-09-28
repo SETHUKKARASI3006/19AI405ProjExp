@@ -86,4 +86,4 @@ else:
 <hr>
 
 ## Result:
-Thus the python program to develop the Sudoku Solver From Scratch is executed successfully
+Thus the python program to develop the Sudoku Solver From Scratch is executed successfully.
